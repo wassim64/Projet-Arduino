@@ -1,2 +1,2 @@
 # Projet-Arduino
-Réveil coucou 
+Objectif : réaliser un réveil coucou
