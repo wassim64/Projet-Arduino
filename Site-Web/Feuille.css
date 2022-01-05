@@ -1,0 +1,56 @@
+*{
+font-family:Gilroy;
+
+}
+
+body {
+	max-width: 1024px;
+	min-width: 800px;
+	height:800px;
+	margin: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-image:url(Background-house.png);
+	background-size: cover;
+	font-size:110%;
+
+}
+
+h1 {
+	text-align: center;
+	padding: 20px;
+	padding-bottom:1px;
+
+}
+
+#intro {
+	width: 100%;
+	text-align: center;
+	margin: auto;
+}
+
+article{
+	text-align: center;}
+
+h3{
+	
+	font-weight:normal;}
+
+
+#dateheure{
+	border:2px solid red;
+	background:black;
+	color:red;
+	font-size:170%;
+	font-family:DS-digital;
+	}
+
+.Réveil{
+	color:green;	
+	font-size:140%;
+	font-weight:bold;
+	color:white;}
+
+
+
+
